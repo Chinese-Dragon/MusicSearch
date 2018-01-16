@@ -1,0 +1,6 @@
+framework module Pods_MusicSearch {
+  umbrella header "Pods-MusicSearch-umbrella.h"
+
+  export *
+  module * { export * }
+}
